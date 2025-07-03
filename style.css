@@ -355,7 +355,7 @@ li a:hover::after {
   padding-left: 20px;
 }
 #contact {
-  width: 100%;
+  width: 90%;
   max-width: 1400px;
   margin: 0 auto;
   padding: 20px;
